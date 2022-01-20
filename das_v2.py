@@ -18,7 +18,7 @@ sh = gc.open_by_key("1nW4f8seohxA24AS7vWTsrvCawztF7HXe6dFHMt-T0v8")
 st.set_page_config(page_title='DigiAuth System', page_icon="DigiAuth Logo-Only.png", initial_sidebar_state = 'auto')
 
 # Page Sidebar Configuration
-st.sidebar.image("https://i.imgur.com/4TqInHt.gif")
+st.sidebar.image("DigiAuth.gif") # Changed from html link to added .gif in repo
 st.sidebar.markdown(
     """<div style="text-align:center"><strong>DigiAuth V2.0 </strong><br><br></div>""", unsafe_allow_html=True)
 
