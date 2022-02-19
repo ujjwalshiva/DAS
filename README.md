@@ -1,7 +1,7 @@
 
 # DigiAuth System
 
-Hello there! This is an Authentication System built for checking in people at variuos events. Connected with a Google Sheets API, this app can seamlessly update status of attending people by scanning their QR Codes and mark them as `Attended`. Verification Systems are also in place to check whether duplicate QR Codes are shown for multiple entries at the venue.
+Hello there! This is an Authentication System built for checking in people at various events. Connected with a Google Sheets API, this app can seamlessly update status of attending people by scanning their QR Codes and mark them as `Attended`. Verification Systems are also in place to check whether duplicate QR Codes are shown for multiple entries at the venue.
 
 
 ## Requirements for Local Installation
