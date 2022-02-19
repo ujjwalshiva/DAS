@@ -3,10 +3,6 @@
 
 Hello there! This is an Authentication System built for checking in people at variuos events. Connected with a Google Sheets API, this app can seamlessly update status of attending people by scanning their QR Codes and mark them as `Attended`. Verification Systems are also in place to check whether duplicate QR Codes are shown for multiple entries at the venue.
 
-This app is currently deployed on Heroku using a Python BuildPack. Watch it in action [here]().
-
-### Web-App Link: [DigiAuth V2.0]()
-
 
 ## Requirements for Local Installation
 
